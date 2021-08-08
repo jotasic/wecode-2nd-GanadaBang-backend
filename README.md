@@ -15,13 +15,19 @@
     - 김성규
 - GitHub
   - [프론트엔드 GitHub URL](https://github.com/wecode-bootcamp-korea/21-2nd-GanadaBang-frontend)
-  - [백엔드 GitHub URL](https://github.com/wecode-bootcamp-korea/21-2nd-GanadaBang-backend)
+
 ### 프로젝트 선정이유
 - 외부 API를 이용한 다양한 이벤트 처리 경험
 - 국내 최대 규모의 부동산 중개 어플을 모티브로 한 웹 사이트 구축 경험
 - 내부의 로직을 분석하여 클론 웹 사이트에 적용
 ### 데모 영상
 https://youtu.be/7CsPs1Z8SDY
+
+## 프로젝트 정보
+
+### modeling
+https://aquerytool.com/aquerymain/index/?rurl=f6fdee63-646c-4ed4-a163-c0fced714796
+비밀번호 : 08y3t2
 
 ### 적용 기술
 >- Front-End : <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React-router&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Styled Components-CC6699?style=for-the-badge&logo=Styled-Components&logoColor=white"/>
@@ -39,6 +45,7 @@ https://youtu.be/7CsPs1Z8SDY
  - **행정구역 검색시 리스트 응답 - 담당기능**
  - **현재 지도의 위치에 있는 매물 응답 - 담당기능**
  - **방 등록 - 담당기능**
+
 
 ## Reference
 - 이 프로젝트는 [다방](https://www.dabangapp.com/) 사이트를 참조하여 학습목적으로 만들었습니다.
